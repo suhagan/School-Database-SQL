@@ -1,2 +1,2 @@
-# School-Database-SQL
+# School-database-SQL
  
